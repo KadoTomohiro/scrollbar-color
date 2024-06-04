@@ -1,0 +1,9 @@
+textarea {
+  background-color: aliceblue;
+  scrollbar-color: red aliceblue;
+}
+
+textarea:focus {
+  background-color: #fff;
+  scrollbar-color: auto;
+}
